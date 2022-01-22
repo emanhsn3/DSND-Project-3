@@ -43,7 +43,7 @@ import matplotlib
 ## Now you are ready to run the code on your local machine, follow these steps:
 
 - Get the datasets from the [IBM Watson Studion platform](https://www.ibm.com/eg-en/cloud/watson-studio)
-- Clone the repo using: <code>git clone https://github.com/AbdelrahmanAEmam/Recommendations-with-IBM.git</code>
+- Clone the repo using: <code>git clone https://github.com/emanhsn3/DSND-Project-3.git</code>
 - Set the directories locations to be compatible with your datasets location
 - Go to the repo location cd path/to/repo
 - Finally, open Recommendations_with_IBM.ipynb (for best practice use jupyter notebook)
